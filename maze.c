@@ -2,9 +2,6 @@
  * 
  * This program generates a maze and allows a user to explore it.
  *
- * CST8234 Assignment 1: Maze Runner
- * Student name: Budry Ahmed
- * Student number: 040801692
  */
  
 #include <stdio.h>

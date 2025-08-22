@@ -2,9 +2,6 @@
  * 
  * This file contains utility functions.
  *
- * CST8234 Assignment 1: Maze Runner
- * Student name: Budry Ahmed
- * Student number: 040801692
  */
  
 #include <stdio.h>
